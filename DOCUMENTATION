@@ -102,7 +102,7 @@ The "DL" array is not printed in the testing routine since it's not an
 output value.
 
 The C version probably contains some bugs and still has to be regarded
-more unstable than the FORTRAN relase. Please report any bugs or
+more unstable than the FORTRAN release. Please report any bugs or
 incorrect values to the maintainer at linux@brodo.de
 
 
@@ -130,7 +130,7 @@ the in- and output, and the differences between the various functions.
 20070727	-	bugfix concerning DFA being masked
 			(Stacey Gage)
 
-20100516	-	bugfix concernin Argon densities
+20100516	-	bugfix concerning Argon densities
 			(Dr. Choliy Vasyl)
 
 20131225	-	fix comment on switch 0, silence compiler warnings
