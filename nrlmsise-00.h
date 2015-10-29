@@ -216,7 +216,7 @@ void ghp7 (struct nrlmsise_input *input, \
  *   and thus the loading time is increased.
  */
 #ifdef INLINE
-#define __inline_double inline double
+#define __inline_double static inline double
 #else
 #define __inline_double double
 #endif
