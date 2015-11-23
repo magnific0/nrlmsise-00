@@ -139,6 +139,9 @@ the in- and output, and the differences between the various functions.
 20150329	-	use fabs() instead of abs()
 			(David F. Crouse)
 
+20151122	-	fixes for gcc5, spelling fixes
+			(Jacco Geul)
+
 
 7. TESTING OUTPUT
 =================
