@@ -15,8 +15,8 @@ Please refer to the DOCUMENTATION file.
 
 * [Original C source code](http://www.brodo.de/space/nrlmsise/)
 
-* [Official Fortran source code](http://uap-www.nrl.navy.mil/models_web/msis/msis_home.htm)
+* [Official Fortran source code](https://www.nrl.navy.mil/ppd/sites/www.nrl.navy.mil.ppd/files/source_code/nrlmsise00.f)
 
 * [CCMC Modelweb description](http://ccmc.gsfc.nasa.gov/modelweb/atmos/nrlmsise00.html)
  
-* [NRL description](http://www.nrl.navy.mil/research/nrl-review/2003/atmospheric-science/picone/)
+* [NRL description](http://web.archive.org/web/20170109045803/https://www.nrl.navy.mil/research/nrl-review/2003/atmospheric-science/picone/)
